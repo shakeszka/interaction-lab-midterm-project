@@ -1,4 +1,4 @@
-# interaction-lab-midterm-project
+Interaction Lab Midterm Project
 That's our project for Interaction Lab Midterm Project
 
 Code written by Shakeshka
